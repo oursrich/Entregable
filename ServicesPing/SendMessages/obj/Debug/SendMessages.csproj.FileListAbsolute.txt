@@ -1,0 +1,10 @@
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\obj\Debug\SendMessages.csproj.CoreCompileInputs.cache
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\bin\Debug\SendMessages.dll
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\bin\Debug\SendMessages.pdb
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\bin\Debug\RabbitMQ.Client.dll
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\bin\Debug\RabbitMQ.Client.xml
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\obj\Debug\SendMessages.dll
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\obj\Debug\SendMessages.pdb
+C:\Users\globalbit\Documents\rr\Especializacion\Especializacion\patrones\ServicesPing\SendMessages\obj\Debug\SendMessages.csprojResolveAssemblyReference.cache
